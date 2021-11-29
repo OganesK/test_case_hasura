@@ -2,12 +2,12 @@
 
 To run this project:
 
-Clone this repo
-Then type
+1)Clone this repo: gh repo clone https://github.com/OganesK/test_case_hasura
 
-cd hasuratestcase
-yarn 
-yarn dev
+2)cd test_case_hasura  - to change working dorectory
+3)yarn - to install required dependencies
+    3.1)(if "command not found: yarn" - npm i -global yarn)
+4)yarn dev - run test case
 
 
 ## Config variables
