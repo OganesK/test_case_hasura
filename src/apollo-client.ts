@@ -1,4 +1,5 @@
 import { ApolloClient, createHttpLink, InMemoryCache } from "@apollo/client";
+
 import { API_URL, HASURA_ADMIN_SECRET } from "./config";
 
 const httpLink = createHttpLink({
