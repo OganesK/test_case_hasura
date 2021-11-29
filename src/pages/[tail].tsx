@@ -50,7 +50,7 @@ const Home: NextPage = () => {
             </path>
           </svg>
         </a>Loading...
-        </h2>;
+        </h2>
     ) 
   }
 
